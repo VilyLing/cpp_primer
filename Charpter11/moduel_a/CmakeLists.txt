@@ -1,0 +1,16 @@
+#收集源文件
+file(GLOB_RECURSE SOURCES CONFIGURE_DEPENDS "src/*.cpp")
+
+#创建库目标
+add_library(moduel_a_lib STATIC ${SOURCES})
+
+target_include_directories(moduel_a_lib 
+PUBLIC
+ $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/inc>
+ $<INSTALL_INTERFACE:inc>
+ )
+
+ target_include_directories(moduel_a_lib 
+  PRIVATE
+   ${CMAKE_CURRENT_SOURCE_DIR}/inc
+   )

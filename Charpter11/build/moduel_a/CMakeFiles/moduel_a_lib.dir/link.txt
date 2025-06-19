@@ -1,0 +1,2 @@
+C:\msys64\clang64\bin\llvm-ar.exe qc libmoduel_a_lib.a CMakeFiles/moduel_a_lib.dir/src/a.cpp.obj
+C:\msys64\clang64\bin\llvm-ranlib.exe libmoduel_a_lib.a

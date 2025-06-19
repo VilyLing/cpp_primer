@@ -1,0 +1,6 @@
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/CMakeFiles/app.dir
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/CMakeFiles/edit_cache.dir
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/moduel_a/CMakeFiles/moduel_a_lib.dir
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/moduel_a/CMakeFiles/edit_cache.dir
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/moduel_a/CMakeFiles/rebuild_cache.dir

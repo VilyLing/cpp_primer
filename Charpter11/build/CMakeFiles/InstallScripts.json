@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/cmake_install.cmake",
+		"C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/moduel_a/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\Main.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter10\\Main.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/Main.cpp",
+  "output": "CMakeFiles/app.dir/Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\exercise_10_2_2.cpp.obj -c \"C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter10\\src\\exercise 10_2_2.cpp\"",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/src/exercise 10_2_2.cpp",
+  "output": "CMakeFiles/app.dir/src/exercise_10_2_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\exercise10_1.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter10\\src\\exercise10_1.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/src/exercise10_1.cpp",
+  "output": "CMakeFiles/app.dir/src/exercise10_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\exercise10_2_3.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter10\\src\\exercise10_2_3.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/src/exercise10_2_3.cpp",
+  "output": "CMakeFiles/app.dir/src/exercise10_2_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\exercise_10_2_1.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter10\\src\\exercise_10_2_1.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/src/exercise_10_2_1.cpp",
+  "output": "CMakeFiles/app.dir/src/exercise_10_2_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\exercise_10_3_1.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter10\\src\\exercise_10_3_1.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter10/src/exercise_10_3_1.cpp",
+  "output": "CMakeFiles/app.dir/src/exercise_10_3_1.cpp.obj"
+}
+]

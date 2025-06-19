@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\main.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter11\\main.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/build/moduel_a",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/moduel_a_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\moduel_a_lib.dir\\src\\a.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter11\\moduel_a\\src\\a.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter11/moduel_a/src/a.cpp",
+  "output": "moduel_a/CMakeFiles/moduel_a_lib.dir/src/a.cpp.obj"
+}
+]
