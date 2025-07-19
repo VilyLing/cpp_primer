@@ -1,0 +1,3 @@
+C:\CMake\bin\cmake.exe -E rm -f CMakeFiles\Charpter13.dir/objects.a
+C:\msys64\clang64\bin\llvm-ar.exe qc CMakeFiles\Charpter13.dir/objects.a @CMakeFiles\Charpter13.dir\objects1.rsp
+C:\msys64\clang64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\Charpter13.dir/objects.a -Wl,--no-whole-archive -o C:\Users\Vily\Desktop\CMakeProject\CppPrimer\Charpter13\bin\Charpter13.exe -Wl,--out-implib,C:\Users\Vily\Desktop\CMakeProject\CppPrimer\Charpter13\bin\libCharpter13.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Charpter13.dir\linkLibs.rsp

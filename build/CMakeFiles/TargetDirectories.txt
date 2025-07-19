@@ -1,0 +1,3 @@
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter13/build/CMakeFiles/Charpter13.dir
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter13/build/CMakeFiles/edit_cache.dir
+C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter13/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter13/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/Charpter13.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Charpter13.dir\\main.cpp.obj -c C:\\Users\\Vily\\Desktop\\CMakeProject\\CppPrimer\\Charpter13\\main.cpp",
+  "file": "C:/Users/Vily/Desktop/CMakeProject/CppPrimer/Charpter13/main.cpp",
+  "output": "CMakeFiles/Charpter13.dir/main.cpp.obj"
+}
+]
